@@ -1,4 +1,4 @@
-- 👋 Oi, I’m Vinicius (@OnlyVCS)
+- 👋 Oi, meu nome é Vinicius (@OnlyVCS)
 - 📚 Sou um Técnico em Desenvolvimento de Sistemas formado pela Etec Fernando Prestes (Sorocaba)
 - 👀 Sou interessado em desenvolvimento WEB
 - 🌱 Estou atualmente aprendendo Node.js
