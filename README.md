@@ -1,7 +1,7 @@
 - 👋 Oi, meu nome é Vinicius
 - 📚 Técnico em Desenvolvimento de Sistemas | Etec Fernando Prestes
 - 🌱 Cursando Engenharia de Computação | Facens
-- 👀 Interessado em desenvolvimento web e sempre em busca de novos aprendizados
+- 👀 Interessado em desenvolvimento backend e sempre em busca de novos aprendizados
 
 
 <!---
