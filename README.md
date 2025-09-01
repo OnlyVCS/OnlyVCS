@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vinicius. I'm a Computer Engineering student at Facens, Brazil <img src="https://flagcdn.com/br.svg" width="30" height="20" alt="Brazil Flag"></h2>
+<h2 align="left">Hi 👋! My name is Vinicius. I'm a Computer Engineering student from Brazil <img src="https://flagcdn.com/br.svg" width="30" height="20" alt="Brazil Flag"></h2>
 
 ###
 
