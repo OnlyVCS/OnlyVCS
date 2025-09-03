@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Vinícius e sou um formando em Engenharia de Computação</h2>
+<h2 align="left">Olá 👋! Meu nome é Vinícius e sou um formando em Engenharia de Computação 👨‍💻</h2>
 
 ###
 
